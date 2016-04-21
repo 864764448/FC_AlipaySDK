@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/base64.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/RSADataSigner.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/MD5DataSigner.m
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/config.h
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/DataVerifier.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/DataSigner.m
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/RSADataSigner.h
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/MD5DataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/OffSite/!svn/ver/36016/trunk/magicbox/yqz_com_worker_ios/DecorateTogether/Vender/AlipaySDK/Util/openssl_wrapper.m
+END
