@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
 
 s.name         = "FC_AlipaySDK"
 
-s.version      = "0.1.4"
+s.version      = "0.1.3"
 
 s.summary      = "AlipaySDK for Focoon."
 
@@ -164,7 +164,7 @@ s.platform     = :ios
 
 
 
-s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag => "0.1.4" }
+s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag => "0.1.3" }
 
 
 
@@ -188,11 +188,11 @@ s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag
 
 # s.source_files  = "FC_AlipaySDK/openssl/*.h" , "FC_AlipaySDK/Util/*.{h,m}", "FC_AlipaySDK/*.{bundle,framework,a,h,m}"
 
-s.source_files = "FC_AlipaySDK/*","FC_AlipaySDK/**/*.{h,m}"
+s.source_files = "FC_AlipaySDK/*"
 #s.public_header_files = "FC_AlipaySDK/**/Headers/**/*.h"
 s.resources = "FC_AlipaySDK/AlipaySDK.bundle", "FC_AlipaySDK/AlipaySDK.framework"
 
-#s.exclude_files = "FC_AlipaySDK/Util/*.{h,m}"
+s.exclude_files = "FC_AlipaySDK/Util/*.{h,m}"
 
 # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
@@ -249,7 +249,7 @@ s.requires_arc = true
 
 # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
 
-#s.dependency "OpenSSL", "~> 1.0.207"
+# s.dependency "JSONKit", "~> 1.4"
 
 
 
