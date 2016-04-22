@@ -16,7 +16,6 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "FC_AlipaySDK"
-  s.version      = "0.0.1"
   s.summary      = "AlipaySDK for Focoon."
 
   # This description is used to generate tags and improve search results.
@@ -81,7 +80,6 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag => "0.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -92,7 +90,9 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "FC_AlipaySDK/*"
+  # s.source_files  = "FC_AlipaySDK/*" ,"FC_AlipaySDK/AlipaySDK.bundle", "FC_AlipaySDK/openssl/*.h", "FC_AlipaySDK/Util/*.{h,m}"
+
+
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
