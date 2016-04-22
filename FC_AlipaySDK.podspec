@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
 
 s.name         = "FC_AlipaySDK"
 
-s.version      = "0.1.2"
+s.version      = "0.1.3"
 
 s.summary      = "AlipaySDK for Focoon."
 
@@ -164,7 +164,7 @@ s.platform     = :ios
 
 
 
-s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag => "0.1.2" }
+s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag => "0.1.3" }
 
 
 
@@ -191,14 +191,8 @@ s.source       = { :git => "https://github.com/864764448/FC_AlipaySDK.git", :tag
 s.source_files = "FC_AlipaySDK/*"
 #s.public_header_files = "FC_AlipaySDK/**/Headers/**/*.h"
 s.resources = "FC_AlipaySDK/AlipaySDK.bundle", "FC_AlipaySDK/AlipaySDK.framework"
-recursive_subspecs = [
-{
-"name": "Util",
-"source_files": "Source/Util/*.{h,m}"
-}
-]
 
-# s.exclude_files = "Classes/Exclude"
+s.exclude_files = "FC_AlipaySDK/Util/*.{h,m}"
 
 # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
